@@ -1,4 +1,155 @@
 # WJNLLC.github.io
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="pinterest-rich-pin" content="true" />
+<meta name="google" value="notranslate">
+<meta property="fb:app_id" content="891856127648858">
+<meta property="og:title" content="وجن | WJN">
+<meta name="author" content="وجن | WJN">
+<link rel="shortlink" href="https://wjn.sa/">
+<link rel="icon" href="https://wjn.sa/img/favicon.ico">
+<meta property="og:description" content="وجن | WJN">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="1">
+<meta name="apple-mobile-web-app-capable" content="apple-mobile-web-app-capable&amp;amp;quot; content=&amp;amp;quot;yes">
+<link rel="canonical" href="https://wjn.sa/">
+<meta name="generator" content="WJN (https://wjn.sa)">
+<meta property="og:site_name" content="wjn.sa">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://wjn.sa">
+<meta property="og:title" content="wjn.sa">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@wjnllc" />
+<meta name="twitter:title" content="وجن | WJN" />
+<meta name="twitter:description" content="وجن | WJN" />
+<meta name="twitter:image" content="https://wjn.sa/img/588x214.png" />
+<meta name="twitter:player" content="https://wjn.sa/media/cards/player/container.html" />
+<meta name="twitter:player:width" content="588" />
+<meta name="twitter:player:height" content="214" />
+<meta name="twitter:player:stream" content="https://wjn.sa/media/adsdevel.mp4" />
+<meta name="twitter:player:stream:content_type" content="video/mp4" />
+<link rel="publisher" href="https://plus.google.com/110084272994864314214" />
+<meta name="dcterms.title" content="وجن | WJN">
+<meta name="dcterms.type" content="Text">
+<meta name="dcterms.format" content="text/html">
+<meta name="dcterms.identifier" content="https://wjn.sa/">
+<meta name="keywords" content="WJN LLC, SaaS, YubiKey, VPS, Windows Cloud, Unix Cloud, Infrastructure Servers, Cyber Security, تواصل ,اجتماعي ,ادارة ,استشارة ,صميم ,تركيب ,استضافة ,موقع ,برامج ,متجر ,الكتروني ,صفحة ,برنامج ,نظام ,جهاز,كمبيوتر ,حاسب آلي">
+<meta name="description" content="Advanced EFS Data Recovery | البرنامج المتطور لاستعادة البيانات المشفرة بنظام EFS">
+
+<style>
+      #map {
+        height: 200;
+      }
+</style>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXH9LR9');</script>
+<!-- End Google Tag Manager -->
+
+<title>وجن | WJN</title>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCn1coPqKI9iz6EPPp6eQUw_3UVRLVNW1w&libraries=places">	
+<script>
+// Insert script:
+(function(w, d, s, p, a, c) {
+w.sfButton = w.sfButton || function(){};
+c = d.getElementsByTagName(s)[0];
+a = d.createElement(s);
+a.async=1;
+a.src=p;
+c.parentNode.insertBefore(a, c);
+})(window, document, 'script', '//savefrom.net/js/sf-helper-agent.min.js');
+
+// Text:
+sfButton.text = 'Download';
+
+// Styles:
+sfButton.styles = {
+ color: 'rgba(0,0,0,0.7)',
+ textShadow: '1px 1px 1px rgba(255,255,255,0.4)',
+ fontFamily: ''Trebuchet MS',Helvetica,sans-serif',
+ fontSize: '7px',
+ borderRadius: '21px',
+ backgroundColor: '#ffffff',
+ 'background-image': '-webkit-linear-gradient(#ffffff, #ffffff)',
+ 'background-image': '-moz-linear-gradient(#ffffff, #ffffff)',
+ 'background-image': 'linear-gradient(#ffffff, #ffffff)',
+ border: 'none'
+};
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var cotJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + cotJsHost + "trustlogo/javascript/cot.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+<script type="text/javascript">
+  //              DO NOT IMPLEMENT                //
+  //       this code through the following        //
+  //                                              //
+  //   Floodlight Pixel Manager                   //
+  //   DCM Pixel Manager                          //
+  //   Any system that places code in an iframe   //
+    (function () {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i')
+          + '.po.st/static/v4/post-widget.js#publisherKey=8tpuvvek228gn8kojtab';
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+     })();
+</script>
+
+
+    <meta property="og:type" content="product" />
+    <meta property="og:title" content="Advanced Archive Password Recovery" />
+<meta property="og:name" content="WJN" />
+    <meta property="og:description" content="WJN LLC, SaaS, YubiKey, VPS, Windows Cloud, Unix Cloud, Infrastructure Servers, Cyber Security, تواصل ,اجتماعي ,ادارة ,استشارة ,صميم ,تركيب ,استضافة ,موقع ,برامج ,متجر ,الكتروني ,صفحة ,برنامج ,نظام ,جهاز,كمبيوتر ,حاسب آلي" />
+    <meta property="og:url" content="https://wjn.sa/cart.php"/>
+    <meta property="og:site_name" content="WJN" />
+    <meta property="product:price:amount" content="0.00" />
+    <meta property="product:price:currency" content="USD" />
+    <meta property="og:availability" content="instock" />
+
+
+
+
+</head>
+
+
+
+<body  style="background-color:#fdfdfd; color:#333;" data-phone-cc-input="{$phoneNumberInputStyle}">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXH9LR9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <section id="footer">
